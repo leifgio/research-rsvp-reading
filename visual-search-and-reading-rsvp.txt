@@ -1,0 +1,2460 @@
+Journal of Experimental Psychology: General
+1982, Vol. l l U N o . 2, 208-227
+
+Copyright 1982 by the American Psychological Association, Inc.
+0096-3445/82/1102-0208S00.75
+
+Visual Search and Reading of Rapid Serial
+Presentations of Letter Strings, Words, and Text
+James F. Juola, Nicklas J. Ward, and Timothy McNamara
+University of Kansas
+SUMMARY
+Text is usually read by executing a series of eye movements resulting in a sequence
+of visual inputs to the reader that contain useful information about the word or small
+group of words fixated. This process can be simulated by a computer program that
+samples and displays successive segments of text for brief time intervals to a single
+visual locus. In this case the text can be read without necessitating any eye movements
+on the part of the reader. The present studies test perceptibility and readability of
+letter strings, words, and running text presented as sequences of rapid serial visual
+presentations (RSVPs) via a computer display.
+Experiments 1 and 2 showed that college-student subjects could rapidly and accurately detect the presence or absence of a target letter in single letter strings and in
+RSVPs of five successive strings presented at rates of 100, 200, or 300 msec per string.
+Both experiments, which used computer displays, replicated results that have been
+found in studies using high-quality printed displays presented in tachistoscopes. Experiment 3 demonstrated that subjects could search for exemplars of a semantic category more accurately than they could search for single target letters given RSVPs
+of nine successive words. Further, accuracy was greater in both cases when the sequences formed normal sentences than when they were scrambled versions of those
+sentences. The advantage for grammatical word sequences persisted even at presentation rates of 50 msec per word (equivalent to 1,200 words per min.).
+Experiment 4 compared comprehension performance for material read in a normal
+paragraph format versus RSVP sequences. Over a range of reading difficulties and
+presentation rates, comprehension was generally equivalent in the two modes of presentation. The results indicated that text can be read at rapid rates and with good
+comprehension when it is presented as a sequence of brief presentations of single words
+or small groups of words. The RSVP method of text presentation is a promising technique both for the study of reading processes and for the search for ways to speed
+understanding of textual information.
+A person reading a text executes a series the text), we can account for the typical
+of eye fixations spaced between voluntary adult reading speed of about 300 words per
+eye movements called saccades. Studies of minute (WPM) for nonchallenging texts
+eye movements and fixation durations in such as newspaper and magazine stories,
+reading have shown them to be highly variPsychologists studying information proable, but averages for skilled readers are cessing have seized on these facts about eye
+about 200 to 250 msec per fixation and about fixations and saccades and, with increasingly
+20 to 50 msec per saccade (Haber, 1976;
+sophisticated monitoring equipment, have
+Huey, 1908/1968; Levy-Schoen & O'Regan, developed theories of the reading process
+1979; Shebilske, 1975). The saccades tra- linking external eye movement patterns to
+verse about 10 letter spaces on the average, internal processes of comprehension (e.g.,
+so that about every one to two words in a Just & Carpenter, 1980; Rayner & Mctext are centrally fixated. Adding in the fact Conkie, 1977). It is generally agreed that
+that some 10%-20% of fixations are regres- reading is a dynamic, constructive process
+sive (i.e., they return to an earlier part of in which the reader's linguistic and world
+208
+
+VISUAL SEARCH AND READING
+
+knowledge greatly complement the static
+text in helping the reader to arrive at some
+understanding of the author's intended
+meaning. Comprehension processes thus involve both encoding the fixated word or small
+group of words around the central point of
+regard and integrating their meaning into
+a developing coherent structure. Some of
+these processes are undoubtedly executed
+"on-line" in the sense that unusual words or
+words not highly predictable from context
+require additional processing time, and this
+time is reflected to some extent in the fixation duration. Other comprehension processes are more global, however, and the
+length of fixation might not reflect the processing of current input so much as time for
+tying the current or previous phrase's meaning into a coherent relationship with the
+topic or text macrostructure.
+One might ask how important systematic
+variations in fixation durations are for normal . comprehension processes. That is, is
+reading for comprehension disrupted when
+control over viewing times is taken away
+from the subject and determined by some
+display device? The research reported here
+asks this and other questions by substituting
+a dynamically changing text display and a
+static visual process for the normal operations in reading. Forster (1970) studied the
+readability of sentences presented one word
+at a time, in a rapid sequence to a single
+visual location. This was done by photoThis research was supported by a grant from the
+General Research Fund of the University of Kansas and
+by National Institute of Education Grants G-77-0010
+and G-78-0179. However, the opinions expressed herein
+do not necessarily reflect the position or policy of the
+National Institute of Education, and no official endorsement by the National Institute of Education should be
+inferred.
+The authors acknowledge the assistance of Wade
+Welch in all of the research reported here and the assistance of Hsuan-Chih Chen and Cindy Ikenaga in
+Experiment 4. Thanks are also due to Frances Friedrich
+for comments on an earlier version of this manuscript.
+Some of this research was reported at the 1979 meeting
+of the Midwestern Psychological Association in Chicago, at the 1979 meeting of the Psychonomic Society
+in Phoenix, and at the 1980 National Reading Conference in San Diego.
+Timothy McNamara is now at Yale University.
+Requests for reprints should be sent to James F. Juola,
+Department of Psychology, Fraser Hall, University of
+Kansas, Lawrence, Kansas 66045.
+
+209
+
+graphing single words in successive frames
+of a motion picture film and then projecting
+it at normal speed. He found that undergraduate students could correctly report
+about four out of six words in a sentence
+when they were presented at a rate of 62.5
+msec per word (equivalent to 960 WPM).
+Other studies using similar procedures have
+indicated that adults can read text presented
+one word or several words at a time at rates
+approximating those obtained when reading
+text normally (Aaronson & Scarborough,
+1977; Bouma & de Voogd, 1974; Potter,
+Kroll, & Harris, 1980).
+One goal of the present investigation is to
+extend Forster's rapid serial visual presentation (RSVP) technique to the study of
+reading for comprehension. Studies of reading using RSVP methods have usually employed mechanical devices such as filmstrips
+(Potter et al, 1980) or advancing rolls of
+paper visible through a narrow slit (Bouma
+& de Voogd, 1974). Those making use of
+computer displays have typically shown text
+one word at a time, sometimes under control
+of the subject (e.g., Aaronson & Scarborough, 1977). The computer-controlled display offers a great deal of flexibility in text
+presentation and thus a new means of studying reading from the input point of view. As
+a starting point, it is possible to simulate the
+visual process of reading; that is, a text can
+be broken up into short units of about 10
+characters and spaces that are clearly identifiable during a brief presentation to foveal
+vision. Successive segments of text can then
+be continuously presented to a common visual locus at about 250-msec intervals. This
+sequence of displays mimics the visual input
+of normal reading, although without the typical variation due to the placement and duration of a reader's eye fixations. Further,
+parametric manipulations of the amount of
+text visible at any one time as well as the
+length of time that each segment is presented
+can be used to explore presentation conditions that enhance or reduce text readability.
+The study of text readability when it is
+presented as a sequence of words and phrases
+to a single locus is important for at least
+three reasons. First, a growing percentage
+of texts that people read will be presented
+on television screens or on other electroni-
+
+210
+
+J. F. JUOLA, N. J. WARD, AND T. McNAMARA
+
+cally controlled display devices in schools,
+homes, and various employment environments. It is important to discover ways of
+making computer-displayed text easily readable and understandable. It is of additional
+interest to optimize the presentation mode
+to enable maximal transfer between the data
+bank or other source of information and the
+reader viewing the system.
+Second, it is not obvious that the best way
+to read for comprehension is to sit before a
+static text and initiate a series of eye movements and fixations. Although fixations tend
+to be correlated in a reasonable way with
+information value in text—that is, long, infrequent, and important words tend to be
+fixated with a higher probability and for a
+longer time than function words and highly
+redundant words (Just & Carpenter, 1980)—
+it is not certain that one's eye-fixation patterns are the most efficient way of sampling
+textual information. Inefficiencies could exist due to an imperfect correspondence between comprehension and perceptual processes, to errors in guidance of eye movements
+(especially in regressions or in moving to the
+beginning of a new line of type), or even to
+the existence of saccadic suppression that is
+known to reduce visual sensitivity before,
+during, and after each saccadic movement
+(Volkmann, 1976). It is therefore at least
+theoretically possible that a computer program could be designed to select and present
+text segments in a way that maximizes the
+informativeness of the visual input and actually improves reading speed and comprehension relative to normal reading based on
+conventional eye movements.
+Finally, the method allows for new ways
+to test text readability and theories of comprehension due to the unique control that is
+possible over the way text is presented to the
+reader.
+The present set of experiments begins with
+an investigation of the perceptual properties
+of letter strings presented on a cathode ray
+tube (CRT) display. Our initial concern was
+to ensure that display format and quality
+were sufficient to reproduce perceptual phenomena such as word-superiority effects that
+we have obtained using high-contrast black
+lowercase letters on a white background in
+tachistoscopic experiments (e.g., Juola,
+Leavitt, & Choe, 1974). A second study was
+
+designed to investigate similar phenomena
+using a letter-search task for single targets
+in a rapid sequence of several letter strings.
+Experiment 3 also used the RSVP task and
+included comparisons of performance obtained when viewing strings of unrelated
+words versus normal English sentences. Finally, Experiment 4 reports an investigation
+of reading texts for comprehension that are
+presented either as intact paragraphs or as
+series of briefly presented single words or
+small groups of words for the same total
+reading time.
+Experiment 1
+The first experiment made use of a lettersearch task and single visual displays of
+common words, orthographically regular
+and pronounceable psuedowords, or irregular and unpronounceable nonwords. Since
+Reicher's (1969) demonstration of word-superiority effects in visual perception, many
+investigators have shown that words and regular pseudowords are more perceptible than
+irregular nonwords. The tasks reliably showing this phenomenon include same-different
+comparisons for pairs of strings (e.g., Bruder, 1978; Taylor, Miller, & Juola, 1977),
+letter search through single letter strings
+(e.g., Massaro, Venezky, & Taylor, 1979;
+McNamara, Ward, & Juola, 1978), letter
+search through lists of letter strings (e.g.,
+Krueger, 1970; Krueger & Shapiro, 1979),
+as well as Reicher's probe recognition technique (e.g., Baron & Thurston, 1973).
+For the present study, we chose to use the
+letter-search task through single displays of
+horizontal letter strings, since this task has
+been most recently used in our laboratory
+to demonstrate word-superiority effects in
+visual perception (Gilford & Juola, 1976;
+Juola, Schadler, Chabot, & McCaughey,
+1978; McCaughey, Juola, Schadler, & Ward,
+1980). Thus, we would be in a good position
+to judge whether or not results using typed
+words appearing in a tachistpscope generalize to the light-against-dack, dot-matrix
+characters formed on the CRT screen.
+A second issue investigated in Experiment
+1 is whether there is evidence for a perceptual difference between regularly spelled
+pseudowords and common words. This issue
+is important for contrasting theories of word
+
+VISUAL SEARCH AND READING
+
+perception. Some theorists assert that word
+perception is based on letter perception plus
+use of the redundancies of English orthography to facilitate recognition processes in
+similar ways for words and other orthographically regular strings (e.g, Massaro,
+1975; Massaro et al., 1979). This view predicts equivalent perceptual effects for words
+and regular pseudowords. Others assert that
+highly familiar words are special in the sense
+that they can be processed as higher order
+units or as "wholes" in a way that makes
+them uniquely different from regular psuedowords (e.g., Henderson, 1980; Juola et al.,
+1974; Taylor et al., 1977). For Experiment
+1 we constructed a set of pseudowords that
+obey the structural definitions of English
+orthography, and performance on these items
+was compared with that for common words
+and for irregular nonwords.
+Method
+Subjects. Twelve native English-speaking undergraduates participated for research credit in an introductory psychology class at the University of Kansas.
+They reported normal or corrected-to-normal vision and
+were naive with respect to viewing tachistoscopic displays. Four additional subjects, including the three authors of the present article, also participated; they were
+experienced with tachistoscopic viewing and had participated in other, similar studies.
+Stimuli. The stimuli were 120 common words (mean
+frequency of about 260 occurrences per million words,
+Kucera & Francis, 1967), 30 each of lengths 3, 4, 5,
+and 6 letters. None of the words had any repeated letters. Each word was permuted into an orthographically
+regular and pronounceable pseudoword and into an irregular, unpronounceable nonword; 16% of the psuedowords and nonwords had been changed by a single
+letter from their parent words in order to make acceptable anagrams. The acceptability of the pseudowords was determined by subjective judgments of each
+item's pronounceability and by determining that each
+included only permissible letter clusters, including the
+special constraints on those at the beginnings and ends
+of strings. Finally, each digraph in each successive serial
+position was compared with tables of digraph frequencies provided by Mayzner and Tresselt (1965) and by
+Massaro, Taylor, Venezky, Jastrzembski, and Lucas
+(1980). These data confirmed that the pseudowords chosen were actually slightly more regular in terms of
+summed spatial digraph frequencies than the words, and
+that both types of regular items differed by an order of
+magnitude from the nonwords in orthographic regularity. The complete list of 360 stimuli is provided in Table
+1, and the details of the orthographic structure analysis
+are presented in Table 2.
+The stimuli were divided into two balanced blocks of
+180 items each, and a third block was made up of 90
+items from each of the first two blocks. Within each
+
+211
+
+block, the items were randomly ordered and then randomly selected to be used on positive and negative trials.
+Those selected for positive trials had a target letter chosen randomly from one of the positions in the string.
+For negative items, a target letter was selected from a
+set of letters balanced in frequency with those occurring
+in all strings, with the constraint that the target letter
+not occur in the display. This entire process was done
+five times to yield five different three-block sequences
+that were used in separate experimental sessions.
+Apparatus. All experiments were run using a PDF
+11 /03 minicomputer with a real-time clock. The stimuli
+were presented on a Teleray CRT terminal interfaced
+with the computer. The targets and display strings were
+composed of illuminated white dots against a dark background with a potential 5 X 9 dot matrix available for
+each letter space. Actual letters used a maximum S X
+7 matrix for ascenders and descenders and a S X 5 space
+for "small" letters such as a or n. A nonilluminated 2 X
+9 column of dots separated adjacent letters within a
+string, and the dots were illuminated with a fast-decay
+P31 phosphor. The words measured 1.2-1.7 cm in
+length, and from a line-of-sight viewing distance of
+about .7 m, a six-letter word subtended a horizontal
+visual angle of 1.5°.
+Procedure. The 12 unpracticed subjects were run
+individually in single 1-hr, sessions. After instructions,
+they were given 12 practice trials using materials similar
+to the experimental stimuli. These were followed by
+three blocks of 180 trials each, separated by short rest
+periods. The four practiced subjects were run through
+all 15 trial blocks distributed over several days. The
+sequence of events on both practice and experimental
+trials was the same. A trial began with the presentation
+of a single lowercase target letter centered on the display
+screen for 1.0 sec. The target letter was followed by a
+masking field of eight overlapped uppercase Xs and Os
+for 500 msec. The mask extended one character space
+to the left and one character space to the right of the
+largest display used. The mask was replaced by the stimulus display, presented in the center of the screen for
+250 msec, after which the mask reappeared.
+All subjects were asked to indicate whether or not the
+display contained the target letter and to respond as
+rapidly and as accurately as possible. Responses were
+made by depressing one of two paddle switches with
+either hand. The assignment of positive (target present)
+and negative (target absent) responses to right and left
+hand switches was counterbalanced across subjects.
+Response latencies were measured to the nearest millisecond from stimulus display onset to the initial depression of the switch. No feedback was provided for correct
+responses; the mask remained on for 1.75 msec after the
+response until the next target letter was presented. Immediately after each incorrect response the word ERROR
+appeared in the center of the screen and remained on
+for 2.0 sec, followed by the mask for 1.75 sec, and then
+the next target letter.
+
+Results
+Mean response times (RTs) for correct
+responses were computed for each cell of the
+design for each subject. Outlying RTs were
+defined as those exceeding twice their cell
+
+212
+
+J. F. JUOLA, N. J. WARD, AND T. McNAMARA
+
+means and were eliminated from the data
+(approximately .5% of the data were so eliminated).
+The mean RT data were analyzed using
+
+an ANOVA (analysis of variance) with the
+between-subjects variable of subject group
+(practiced vs. unpracticed) and the three
+within-subjects variables of display type
+
+Table 1
+Stimuli Used in Experiments I and 2
+Three letters
+
+Six letters
+
+Five letters
+
+Four letters
+Words
+
+air
+big
+boy
+cut
+few
+gun
+hot
+job
+led
+men
+old
+red
+sat
+son
+top
+
+act
+ask
+bit
+car
+far
+gas
+hit _
+how
+key
+low
+nor
+put
+run
+sea
+sun
+
+born
+come
+game
+gone
+hour
+king
+left
+near
+rate
+rise
+role
+sort
+take
+true
+west
+
+best
+both
+fear
+girl
+head
+just
+lead
+line
+pain
+rest
+road
+shot
+step
+town
+turn
+
+break
+claim
+earth
+field
+great
+horse
+large
+night
+quite
+shown
+sound
+speak
+think
+those
+young
+
+board
+chief
+clear
+faith
+forms
+heard
+house
+month
+plant
+short
+sight
+south
+stage
+third
+trade
+
+almost
+behind
+course
+enough
+formed
+ground
+island
+modern
+number
+reason
+second
+spring
+strong
+turned
+worked
+
+action
+around
+change
+during,
+figure
+friend
+growth
+itself
+months
+public
+result
+showed
+square
+toward
+walked
+
+bourd
+chiet
+crale
+thaif
+froms
+heark
+bouse
+nomth
+giant
+trosh
+douns
+pakes
+thonk
+hotes
+yourg
+
+stalom
+hinbed
+scoure
+honuge
+morfed
+droung
+dalins
+morned
+nomths
+sonare
+corides
+prings
+storng
+treund
+rowked
+
+tacion
+unroad
+haceng
+ruding
+furige
+refind
+worgth
+fiselt
+bernurh
+plubic
+suiter
+whosed
+quares
+wotard
+klawed
+
+Pseudowords
+
+ain
+hig
+yob
+cet
+faw
+nog
+ton
+jok
+lod
+nem
+aid
+rud
+tas
+sou
+wot
+
+cay
+bas
+
+rwa
+ibg
+ymb
+etu
+wfe
+ugn
+hto
+bjo
+Ide
+emn
+Ido
+rde
+tsa
+nso
+pto
+
+tea
+ksa
+ibt
+rco
+rfa
+sga
+hti
+
+tid
+cer
+fer
+gos
+hib
+horn
+
+koy
+lor
+n$r
+
+tep
+
+nur
+ase
+nos
+
+best
+thob
+fean
+glar
+bode
+hour
+gink
+telf
+rane
+real
+sier
+soth
+stap
+toun
+nurt
+
+mest
+bron
+moce
+mage
+goen
+loer
+pust
+lade
+lein
+naip
+ster
+doar
+sart
+tade
+ture
+
+obnr
+rfae
+Tlig
+hdea
+ohru
+ngki
+flel
+nrea
+rtea
+rsie
+htos
+tpes
+nwot
+ntru
+wtes
+
+tbes
+btoh
+mcoe
+gmea
+ngeo
+htea
+jtus
+dlea
+Inei
+aipn
+rtes
+rdoa
+otsr
+tkea
+uetr
+
+breat
+maich
+thare
+feald
+trage
+harse
+grate
+ginth
+quate
+sught
+nbuth
+geast
+dirth
+drate
+whons
+
+1
+
+;
+
+Non words
+
+ohw
+eks
+wlo
+nro
+ptu
+nru
+csa
+nsu
+
+krbea
+Icmia
+htrae
+tfiah
+sfmor
+rdhea
+hseou
+tnomh
+tpaln
+rsoht
+htigs
+gsaet
+hdtir
+aedtr
+htsuo
+
+rbdoa
+cfeih
+Iraec
+ngyou
+dleif
+rtaeg
+hrsoe
+rgael
+tgihn
+qteiu
+nwohs
+dsuon
+ksaep
+tknih
+htsoe
+
+edbnih
+rcueos
+uhngoe
+emrdof
+dgnruo
+adlnsi
+dnemro
+rbuenm
+nrsoea
+ocnsde
+pngris
+tsogrn
+eurdtn
+ekdwla
+oaitcn
+
+:
+
+:
+
+ndruao
+gcneha
+uigdrn
+ieugrf
+efdnri
+rtgohn
+etflsi
+honstm
+Ipiucb
+rtlseu
+odwhse
+aueqsr
+otdrwa
+edrwko
+mtsaol
+
+213
+
+VISUAL SEARCH AND READING
+
+Table 2
+Mean Summed Spatial Digraph Frequencies of the Stimuli Listed in Table I , Based on Statistics
+Provided by Mayzner and Tresselt (1965) and Massaro, Taylor, and Venezky (1980)
+Three letters
+
+Four letters
+
+Display type
+
+MT
+
+M
+
+MT
+
+Words
+Pseudowords
+Nonwords
+
+55
+66
+0
+
+1525
+1883
+1
+
+68
+73
+
+5
+
+M
+
+1865 .
+2034
+162
+
+Five letters
+
+Six letters
+
+MT
+
+M
+
+MT
+
+M
+
+67
+64
+6
+
+2022
+1982
+229
+
+46
+43
+3
+
+1470
+1433
+114
+
+Note. MT = Mayzer and Tresselt; M = Massaro et al.
+
+(word, pseudoword, or nonword), display
+length (3, 4, 5, or 6 letters), and response
+type (positive vs. negative). All four factors
+had significant effects. Practiced subjects
+responded more rapidly than unpracticed
+subjects, F(l, 14) = 16.5, p < .001; positive
+responses were faster than negative responses, F(l, 14) = 24.3, p < .001; response
+times increased with number of display letters, F(3, 42) = 43.9, p < .001; and response
+times differed for words, pseudowords, and
+nonwords, F(2, 28) = 13.5, /x.OOl. The
+only significant interaction was that between
+subject group and display length, F(l, 42) =
+3.5, p < .05. When the data for practiced
+
+and unpracticed subjects were examined separately, it was found that besides being
+faster overall, RT increased more slowly
+with number of display letters for practiced
+subjects than for unpracticed subjects. Leastsquares linear fits to the RT by display
+length functions resulted in slopes of 18
+msec/letter for the practiced group and 31
+msec/letter for the unpracticed group. These
+data, along with display-type and displaylength effects are shown in Figure 1.
+The data for the first experiment are summarized in Table 3, which combines the results for the four practiced and 12 unpracticed subjects. The mean RT averaged across
+
+0—0 NEGATIVE RESPONSES
+•—« POSITIVE RESPONSES
+
+NONWORDS
+PSEUDOWORDS
+WORDS
+
+900
+850
+800
+750
+700
+650
+600
+550
+500
+450
+400
+
+NUMBER OF DISPLAY LETTERS
+
+Figure I, Mean response times in Experiment 1, plotted against number of display letters. (In both
+panels, the data in the lower half of the figure are for the four practiced subjects, and the data in the
+upper half are for the 12 unpracticed subjects.)
+
+214
+
+J. F. JUOLA, N. J. WARD, AND T. McNAMARA
+
+Table 3
+Response Times and Proportions of Errors (in Parentheses) for Each Cell of the Design in
+Experiment I
+Three letters
+Display type
+
+P
+
+N
+
+Five letters
+
+Four letters
+
+M
+
+N
+
+M
+
+N
+
+Six letters
+
+M
+
+N
+
+Words
+
+633
+706
+669
+641
+706
+674
+655
+722
+689
+699
+752
+(.019) (.019) (.019) (.025) (.028) (.027) (.016) (.019) (.018) (.030) (.028)
+
+726
+(.029)
+
+Pseudowords
+
+626
+703
+665
+647
+719
+683
+708
+(.016) (.025) (.021) (.032) (.013) (.023) (.034)
+
+724
+716
+713
+771
+(.021) (.027) (.045) (.036)
+
+742
+(.041)
+
+Nonwords
+
+645
+690
+667
+672
+708
+690
+685
+772
+729
+753
+815
+(.024) (.015) (.020) (.028) (.016) (.022) (.049) (.016) (.032) (.080) (.071)
+
+784
+(.075)
+
+Note. Data are for practiced and unpracticed subjects combined. Response times are given in milliseconds. P =
+positive trial; N = negative trial.
+
+all string lengths was 689 msec for words, Discussion
+which was significantly less than the 701
+msec mean RT for pseudowords, ?(381) =
+The results demonstrated that subjects
+3.0, p < .01. The pseudowords were in turn could rapidly and accurately detect the presresponded to more rapidly than the non- ence or absence of a target letter in a string
+words (mean RT = 718 msec), *(381) = and that word-superiority effects were found
+4.25, p < .01.
+in both the RT and error data. Thus, we
+Separate analyses were performed on the replicated earlier findings that had resulted
+RT data from positive trials only, with the from similar procedures and high-quality,
+serial position of the target letter added as typed stimuli exposed in a; tachistoscope
+a variable to the previous ANOVA design. (e.g., Juola et al., 1978; McCaughey et al,
+Significant or marginally significant serial- 1980). We had anticipated these results but
+position effects were found for four-, five-, considered it necessary to demonstrate them
+and six-letter items: F(3,42) = 5.3, p < .01; before proceeding to a study of text readF(4, 56) = 2.8, p < .08; F(5, 70) = 5.2, p < ability using the dot-matrix character font
+.001, respectively. Significant main effects of the CRT; it has been shown that even
+were found for the same variables as in the such apparently innocuous distortions as enoverall analysis, and there were no signifi- largements of printed words to slightly
+cant interactions involving serial position greater than normal reading size can affect
+and any other factors. The serial position perceptual processes (e.g., Purcell, Stanovdata are presented in Table 4.
+ich, & Spector, 1978).
+The differences in performance that we
+A final analysis was made of the error
+data. The percentage of errors for each sub- observed for words and pseudowords were
+ject and each cell of the design were cal- consistently small but reliable across several
+culated and converted to arc sines before the studies, being 12 msec in the RT data and
+ANOVA. Error rates increased with display .5% in the error data for the present experlength, F(3, 42) = 10.0, p < .01, and were iment. In turn, pseudowords produced a 17smallest for words and largest for nonwords, msec RT advantage and a .9% accuracy adF(2, 28) = 4.6, p < .02. Multiple compari- vantage over the nonwords. Since both the
+sons revealed that the 2.3% error rate for RT and error data demonstrated the same
+words did not differ significantly from the trends, the word advantage cannot be at2.8% rate for pseudowords, *(381) = .75. tributed to speed-accuracy trade-offs. We
+However, the 3.7% error rate for nonwords conclude that the general advantage in perwas significantly greater than that for pseu- ceptual processing for words over pseudodowords, *(381) = 2.74, p < .01. No other words is due to some property of words that
+main effects or interactions were significant. is not captured by the orthographic regular-
+
+VISUAL SEARCH AND READING
+
+ity of the pseudowords. Common words have
+been experienced as wholistic visual objects
+thousands of times by college students and
+appear to have the capacity to be processed
+differently from pseudowords. The nature of
+this processing difference is not revealed by
+our data, but a consistent explanation would
+be that word perception can proceed directly
+from detection of letter features, and perhaps features of the overall shape of the
+item, to identification of the entire word.
+Pseudowords, and possibly words on some
+occasions, are processed by an indirect
+method—perhaps from letter and shape features to identification of individual letters or
+letter clusters. Knowledge of orthography
+and spelling patterns in English presumably
+facilitates this recognition process and results in an advantage for regular pseudowords over irregular nonwords.
+Display length and display type did not
+interact significantly. This result is consistent with localizing word and pseudoword
+advantages over nonwords at an early, encoding stage of processing rather than at a
+later, comparison stage involving the target
+and display letters. If display type influenced
+comparison processes in visual search, we
+would expect an interaction between display
+length and display type (Sternberg, 1966,
+1969; see also Gilford & Juola, 1976).
+
+215
+
+the Teleray CRT was sufficient to generate
+accurate rapid letter-search performance
+through a single brief exposure of a letter
+string. In all important ways the results were
+comparable to those obtained using highquality stimuli exposed in a tachistoscope.
+We could thus proceed with reasonable confidence to studies of reading computer-presented text under the assumption that there
+were no serious perceptual problems with the
+CRT display and the character font used.
+A second experiment was designed to further
+test perceptual properties of the display in
+a task approaching the RSVP method of text
+presentation. The same task and materials
+were used as in Experiment 1, but the displays consisted of series of five words, pseudowords, or nonwords successively presented
+to a common visual locus. The aim was to
+test the limits of search performance, and
+therefore the perceptibility of the displays,
+in RSVP conditions.
+Method
+Subjects. Sixteen native English-speaking undergraduates participated for research credit in an introductory psychology class at the University of Kansas.
+The four practiced subjects from Experiment 1 also
+participated.
+Stimuli and apparatus. The words, pseudowords,
+nonwords, target letters, and masking field were the
+same as those used in Experiment 1. The display items
+were arranged into IS blocks of 72 sets each. Each set
+contained five items that were to be displayed successively. The five items in each set were all words, pseudowords, or nonwords, and all had the same number of
+letters. Thus there were 12 different kinds of sets cor-
+
+Experiment 2
+The first study demonstrated that the visual quality of the characters presented on
+
+Table 4
+Mean Response Times and Mean Proportions of Errors (in Parentheses) for All Serial Positions
+at Each Display Length in Experiment I
+Serial position
+Display
+length
+
+1
+
+2
+
+3
+
+4
+
+5
+
+3
+
+626
+(.021)
+
+641
+(.014)
+
+638
+(.018)
+
+4
+
+618
+(.031)
+
+639
+(.015)
+
+666
+(.030)
+
+689
+(.052)
+
+5
+
+651
+(.029)
+
+699
+(.029)
+
+664
+(.018)
+
+711
+(.013)
+
+717
+(.062)
+
+6
+
+663
+(.035)
+
+700
+(.054)
+
+717
+(.055)
+
+737
+(.042)
+
+773
+(.056)
+
+Note. Data are combined for all three display types. Response times are given in milliseconds.
+
+6
+
+785
+(.093)
+
+216
+
+J. F. JUOLA, N. J. WARD, AND T. McNAMARA
+
+Table 5
+Mean Response Times and Proportions of Errors (in Parentheses) for Words, Psuedowards, and
+Nonwords at the Three Exposure Durations in Experiment 2
+Positive trials
+Exposure duration
+per item
+
+Words
+
+Pseudowords
+
+100
+
+719
+(.19)
+
+731
+(.22)
+
+200
+
+711
+(.10)
+
+707
+(.09)
+
+300
+
+753
+(.07)
+
+M
+
+728
+(-12)
+
+Negative trials
+Nonwords
+
+Words
+
+Pseudowords
+
+Nonwords
+
+730
+(.18)
+
+668
+(.18)
+
+674
+(.19)
+
+741
+(.12)
+
+752
+(.08)
+
+729
+(.12)
+
+709
+(.12)
+
+751
+(.06)
+
+761
+(.09)
+
+805
+(.03)
+
+796
+(.06)
+
+798
+(.07)
+
+730
+(.12)
+
+751
+(.17)
+
+762
+(.10)
+
+731
+(.12)
+
+727
+(.13)
+
+.
+
+- 752
+(.29)
+
+/
+
+Note. Response times and exposure durations are given in milliseconds.
+responding to the combination of three display types
+and four display sizes. In forming the sets, care was
+taken to ensure that no two consecutive items had the
+same letter in any corresponding serial position.
+Within each 72-set block, half of the sets in each
+condition were randomly selected for positive trials and
+half were selected for negative trials. For positive trials,
+target letters were randomly chosen from one of the
+positions in the second, third, or fourth item, with the
+constraint that the target occur exactly once in the' set.
+The target did not occur anywhere in the set on negative
+trials. Negative target letters were selected to approximate the overall relative frequency of occurrence of the
+letters in the stimulus set.
+The apparatus and display conditions were the same
+as those used in Experiment 1.
+Procedure. The 16 unpracticed subjects were run
+in single 1-hr, sessions using different combinations of
+six of the fifteen 72-set blocks, plus 12 practice trials.
+The four practiced subjects were run through all 15 trial
+blocks, distributed over several days. On each trial, the
+target letter was presented in the center of the display
+for 1.0 sec and was followed by a masking field of overlapped Xs and Os for .5 sec. The mask was followed by
+the sequential presentation of the five items in the set,
+all appearing in the center of the window, followed by
+the reappearance of the mask. Three presentation rates
+were used, and these were crossed in a random order
+with all other factors in the design. The five items in a
+set were presented for either 100,200, or 300 msec each.
+All subjects were instructed to indicate whether the
+target occurred anywhere in the stimulus set (positive
+response) or nowhere in the set (negative response) and
+to make their responses as rapidly and accurately as
+possible. As in Experiment 1, responses were made by
+pressing one of two paddle switches, and RTs were
+measured from the onset of the last item in the set on
+negative trials and from the onset of the string containing the target on positive trials. Following each correct
+response, the mask remained on for 1.25 sec before the
+next target letter appeared. If an incorrect response was
+made, the word ERROR appeared for 1.5 sec followed
+by the mask for 1.25 sec and then the next target letter.
+
+Results
+The mean RTs for correct responses for
+each subject and cell of the design were obtained in the same manner as in Experiment
+1. An overall ANOVA included the factors of
+subject group (practiced vs. unpracticed),
+display type (words, pseudowords, or nonwords), display length (3, 4, 5, or 6 letters),
+exposure duration (100, 200, or 300 msec
+per letter string), and response type (positive
+vs. negative). The group effect was highly
+significant; mean RT for practiced subjects
+was 575 msec, and the mean for unpracticed
+subjects was 799 msec, F(l, 18) = 10.1, p <
+.01. The subject-group factor did not enter
+into any significant interactions.
+The ANOVA found no significant main effects for response type or display type, but
+the two factors interacted significantly, F(2,
+36) = 7.2, p<.0l. This interaction is observable in Table 5. In general, response
+times were shortest for words and longest for
+nonwords on positive trials, and the reverse
+was true for negative trials. The negative
+response data are unusual, since in Experiment 1 they showed the same trends as the
+positive data, and the positive RT data are
+similar in the two experiments. Perhaps the
+more demanding search task in Experiment
+2 resulted in a response compatibility problem, such that it was relatively more difficult
+to execute a negative response to a set of
+familiar words than to a set of unfamiliar
+pseudowords and nonwords.
+
+217
+
+VISUAL SEARCH AND READING
+
+Table 6
+Mean Response Times and Proportions of
+Errors (in Parentheses) for Each Display
+Length Condition in Experiment 2
+Number of display letters
+Trial
+Positive
+
+712
+(.12)
+
+718
+(.13)
+
+756
+(.16)
+
+760
+(.14)
+
+Negative
+
+696
+(.08)
+
+715
+(.10)
+
+748
+(.12)
+
+801
+(.17)
+
+Note. Response times are given in milliseconds.
+
+Further significant effects in the RT AN^
+OVA indicated that, somewhat paradoxically,
+RT increased with exposure duration, F(2,
+36) = 7.0, p < .01, and this increase was
+greater for negative responses than for positive responses, F(2, 36) = 6.0, p < .01 (see
+Table 5). Response times were found to increase significantly with display length, F(3,
+54) = 15.4, p < .001, and this increase was
+also greater for negative responses than for
+positive responses, F(3, 54) = 3.8, p < .05.
+The RT data for positive and negative responses for the various display lengths are
+given in Table 6. These data are also somewhat unusual, since in Experiment 1 positive
+and negative response times increased at the
+same rate with increasing string length, indicating an exhaustive search process. It is
+possible that in the longer and more difficult
+search task Experiment 2, there was a
+greater tendency to terminate the search
+with location of the target letter.
+Because of the greater difficulty of the
+search task in Experiment 2 than in the first
+study, and the resultant higher error rate,
+the RT data in the second study are relatively less informative and the error data are
+of greater interest. These are shown in Tables 5 and 6, but for purposes of clarity in
+discussing the effects of display type, display
+length, and exposure duration we decided to
+convert the error data to d's before further
+analysis. This was done by considering correct responses on positive trials as hits and
+incorrect responses on negative trials as false
+alarms. Figure 2 presents mean d's for the
+various display-length and exposure-duration conditions. An analysis of these data,
+
+with subject group as an additional factor,
+found d's to increase significantly with duration, F(2,36) = 90.2, p< .001. In addition,
+the Display Length X Duration interaction
+was marginally significant, F(6, 108) = 2.2,
+p < .05, indicating that sensitivity of detecting the presence or absence of the target letter was independent of display length for the
+100-msec exposures (one-way F<1), but
+sensitivity decreased with display length for
+the longer durations, F(3, 54) = 10.0 and
+9.0 for 200- and 300-msec exposures, respectively, bothps < .001. Finally, although
+the practiced subjects had significantly larger
+mean d's than the unpracticed subjects—
+about 3.2 and 2.4, respectively, F(l, 18) =
+18.4, p < .001—the subject-group factor did
+not enter into any significant interactions.
+A second analysis was made of the Display
+Type X Exposure Duration data presented
+in Figure 3. Again, the significant effect of
+subject group is not shown, since it did not
+interact with either factor. Both duration,
+F(2, 36) = 86.6, p < .001, and display type,
+F(2, 36) = 7.4, p < .01, main effects were
+significant, and they did not interact, F(4,
+
+3.5
+
+9
+
+3-1
+
+>
+300 MSEC
+
+Z
+
+2.3
+
+200 MSEC
+
+i1,9
+100 MSEC
+
+1.6
+J
+
+3
+
+4
+
+I
+
+5
+
+I
+
+6
+
+NUMBER OF DISPLAY LETTERS
+
+Figure 2. Mean target letter detection sensitivity (expressed as d'} as a function of the number of letters in
+each item of the five-item set in Experiment 2. (The
+data are combined for words, pseudowords, and nonwords.)
+
+218
+
+J. F. JUOLA, N. J. WARD, AND T. McNAMARA
+
+3.5
+
+- 2.7
+
+5
+
+z
+
+2.3
+
+1.6
+100
+
+200
+
+300
+
+EXPOSURE DURATION PER ITEM I M S E C '
+
+Figure 3. Mean target letter detection sensitivity (expressed as d') as a function of exposure duration per
+item in the five-item set in Experiment 2. (The data are
+combined across number of letters per display item and
+are presented separately for words [W], pseudowords
+[PW], and nonwords [NW].)
+
+The results replicated those of Experiment
+1 in showing perceptual differences among
+words, regular pseudowords, and irregular
+nonwords. The word-superiority effect was
+maintained in the letter-search task using
+RSVPs equivalent to rates of from 200 to
+600 WPM. The present data also replicate
+a recent finding reported by Krueger and
+Shapiro (1979). They used uppercase six-letter words and irregular nonwords in a similar
+visual search task, presenting nine successive
+displays per trial. As in our Experiment 2,
+they found a 4% difference between accuracy
+levels for words and nonwords over a similar
+range of exposure durations.
+Since normal perceptual processes are apparently only limited, and not disrupted, by
+RSVPs, these results encourage further exploration of the RSVP technique both as a
+tool to gain understanding of the reading
+process and as a technique to present text
+rapidly to a reader using a computer.
+Experiment 3
+
+72) = 1.5, p > .05, Thus, the differences in
+detection sensitivities among words, pseudowords, and nonwords were maintained
+across all three duration conditions.
+Discussion
+The results of Experiment 2 generally replicated those of Experiment 1, despite some
+anomalies in the RT data in the second
+study. Specifically, unlike the majority of
+data from visual search tasks involving single-string displays (including Experiment 1),
+the RSVPs of five strings in Experiment 2
+resulted in word-superiority effects in the
+positive data only; negative responses were
+actually slowest for words. Also, mean RTs
+increased faster with display length for negative responses than for positive responses,
+a result not typically found in visual search
+(but see McNamara et al., 1978). The average error rate of about 12% necessitates
+some qualification of the RT data, since RTs
+can be unreliable in difficult tasks that result
+in guesses on many trials. The error data and
+d' analysis in Experiment 2 provide greater
+justification for generalizing the results from
+single-item search tasks to the RSVP task.
+
+In normal reading, textual information is
+integrated over several fixations into a general, coherent representation. Successive eye
+fixations tend to follow the linear order of
+the text, and it is expected that RSVP text
+should not only be read and understood better, but actually perceived more accurately
+if it is presented in the correct serial order
+rather than in some rearranged order. The
+third experiment tested this general hypothesis and made use of presentation conditions
+that more closely approximated the visual
+experience of reading than did those of Experiments 1 and 2. Instead of manipulating
+redundancy within items, between-item redundancy was manipulated by presenting
+series of words that were either simple sentences or scrambled versions of those sentences. Forster (1970) has shown that subjects can recall words more accurately if
+intact rather than scrambled sentences are
+presented at higher rates. His RSVP conditions were equivalent to a presentation rate
+of 960 WPM, although an average of only
+about half the words in a six-word sequence
+could be reported. Sentence recall, of course,
+involves memory and reconstruction of the
+original words in order; either process could
+
+VISUAL SEARCH AND READING
+
+219
+
+be facilitated by having to deal with mean- name with no exemplar in the sentence. These targets
+ingful, structured text rather than unrelated were used for positive and negative trials, and care was
+to ensure that the position of the target item on
+words. However, there are many reasons to taken
+positive trials was not changed when the sentences were
+believe that the meaningfulness and struc- scrambled. (Scrambling was done by reversing word
+ture of text also aid in initial encoding and order in the sentence except for the target item and then
+assimilation of meaning from the perceived rearranging any additional words to eliminate relevant
+or spurious meaningful interpretations). The locations
+words.
+of targets across sentences were balanced in that one
+The effects of meaningful context on the third of them occurred in each three-word segment of
+recognition of individual words presented the sentences. Thus, there was a total of 960 different
+under impoverished or noisy stimulus con- word-string-target-item combinations. These were diinto eight balanced blocks of 120 trials.
+ditions have been demonstrated in both vided
+The apparatus was" the same as that used in Experspeech perception (e.g., Miller, Heise, & iments 1 and 2. The .masking field was enlarged to 13
+Lichten, 1951) and visual recognition (e.g., characters to extend one space to the left and one space
+Tulving & Gold, 1963). It has also been to the right of the longest word used.
+Procedure. All subjects were run for a 1-hr, session
+shown that children and adults can search
+each of two days. Each session began with instrucmeaningful texts more rapidly for specific on
+tions and 16 practice trials using materials similar to
+words and for exemplars of semantic cate- the experimental stimuli. Four of the trial blocks were
+gories than for meaningless subunits of then presented in the first session, with the remaining
+words such as letters or syllables (Friedrich, four presented in the second session. Order of presentation of the four blocks was counterbalanced across
+Schadler, & Juola, 1979; Juola, McDermott, subjects.
+& Miller, Note 1). In addition, search rates
+On each trial the target letter or category name was
+for targets of all types are slowed by about shown centered on the display for 1.0 sec followed by
+10% when scrambled versions of paragraphs the mask presented for .5 sec in the same place. The
+are substituted for normal text X Juola et al., intact or scrambled sentence was then presented one
+at a time, with the leftmost letter of each word
+Note 1; see also Ball, Wood, & Smith, word
+indented one space from the left edge of the mask. Pre1975).
+sentation rates of SO and 100 msec per word were used,
+In Experiment 3 we again used a search the latter being equivalent to the fastest RSVP condition
+task involving single targets, with normal in Experiment 2. Immediately after the last word, the
+reappeared and remained on for 1.2S sec after the
+sentences or scrambled versions of those sen- mask
+response until the next target appeared. If an error was
+tences presented in RSVP conditions. The made, the word ERROR was presented for 1.5 sec foltargets were either single letters or any one lowed by the mask for 1.25 sec before the next target.
+of many possible exemplars of a given se- As before, the assignment of positive and negative target
+mantic category. The present study provides detection responses to the left- and right-hand switches
+additional comparisons of results we have was counterbalanced across subjects.
+obtained using intact and scrambled text
+viewed normally versus similar materials Results
+presented under RSVP conditions on a CRT
+The overall percentage of correct redisplay.
+sponses for the unpraeticed group was 88%,
+and for the practiced group it was 89%. In
+Method
+all other ways, the data for the two groups
+Subjects. Eight native English-speaking undergraduates participated for research credit in an introductory were very similar. This level of performance
+psychology class at the University of Kansas. The four was slightly higher than that obtained in
+practiced subjects from the first two studies also par- Experiment 2, although the presentation
+ticipated.
+rates were equivalent to 1,200 and 600
+Stimuli and apparatus. The stimuli included 120 WPM in Experiment 3 versus between 600
+different simple nine-word sentences and scrambled
+rearrangements of these sentences. The sentences had and 200 WPM in Experiment 2. Obviously
+been used in an earlier study by Friedrich et al. (1979) some of the differences in Experiment 3 conand were at about the second-grade level in readability. tributed to this relatively high level of perEach sentence was paired with four targets: (a) a letter formance, including the search for semantic
+that occurred once in the sentence, (b) a letter that did
+not occur in the sentence, (c) a category name, such as information as well as single letters and the
+FOOD or CLOTHING, that had one exemplar (but not the use of sentences as well as lists of unrelated
+category name itself) in the sentence, and (d) a category words. However, performance was about
+
+220
+
+J. F. JUOLA, N. J. WARD, AND T. McNAMARA
+
+Table 7
+Mean Proportions of Errors in Letter- and
+Category-Search Conditions at Presentation
+Rates of 50 and 100 Msec per Word in
+Experiment 3
+Category
+search
+
+Letter search
+Sentence
+type
+
+50
+
+100
+
+than scrambled sentences, F(l, 10) = 10.0,
+p < .01, and the slower presentation rate resulted in better performance than the faster
+rate, F(l, 10) = 58.2, p < .001. None of the
+interactions approached significance.'
+
+50
+
+100
+
+.13
+.15
+
+.05
+.06
+
+.08
+.11
+
+.04
+.04
+
+False alarms
+Intact
+Scrambled
+
+.22
+.24
+
+.09
+.12
+
+Misses
+Intact
+Scrambled
+
+.14
+.IT
+
+.09
+.10
+
+67% more accurate in Experiment 3 for both
+practiced and unpracticed subjects for comparable conditions—that is, in letter search
+for 100-msec displays of scrambled sentences on Day 1 of Experiment 3 versus letter search for 100-msec displays of unrelated
+words in Experiment 2. The mean word
+length in Experiment 3 was about 4 letters
+per word, as opposed to 4.5 in Experiment
+2, and the short function words in the scrambled sentences never contained the target
+letter or matched the target category. These
+facts could have been used by the subjects
+to improve performance in Experiment 3
+over that obtained for the uniform-length
+word displays of Experiment 2.
+As in Experiment 2, the error data were
+converted to d's prior to analysis (Table 7
+presents the error data on which the d's were
+based). A four-way ANOVA of the d' data,
+involving the factors of target type (letter vs.
+category), sentence type (intact vs. scrambled), presentation rate (50 msec per word
+vs. 100 msec per word), and subject group
+(practiced vs. unpracticed) found all factors
+to produce significant main effects except
+for subject group. The data were thus collapsed across groups and are presented in
+Figure 4.
+Detection of the presence or absence of
+categorical information was more accurate
+than detection of the presence or absence of
+letter targets, F(l, 10) = 19.1, p < .001. Intact sentences resulted in better performance
+
+Discussion
+There are several unusual aspects of the
+data that deserve comment. First is the high
+level of performance, averaging about 84%
+correct at a presentation rate of 1,200 WPM
+and about 92% at 600 WPM; These presentation rates are about four times and two
+times as fast, respectively, as typical collegestudent reading rates. Second, categorysearch performance averaged about 8% better than letter-search performance, despite
+the fact that subjects knew exactly what to
+look for in the letter-search condition, but
+any of several words could appear in the category-search condition (in fact, 12 different
+target words were used for each of the 10
+category names). Finally, despite the small
+differences in favor of the practiced subjects
+in Experiment 3, the group performance differences were not significant as in the first
+two studies.
+The first result is encouraging, since high
+levels of performance in the RSVP search
+task indicate that the technique should be
+
+LETTER
+
+SEARCH
+
+_
+
+C A T E G O R Y SEARCH
+
+INTACT
+
+S 2.1
+
+BO
+EXPOSURE
+
+DURATION
+
+PER
+
+WORD iMSEC)
+
+Figure 4. Mean target letter detection sensitivity (expressed as d'} for letter targets (left panel) and for category targets (right panel) as a function of exposure
+duration per word in the nine-word sequences in Experiment 3.
+
+VISUAL SEARCH AND READING
+
+a useful way to present text rapidly in a
+study of reading for comprehension. The result that category information is detected
+more easily than letter information has been
+reported before (Friedrich et al., 1979), Although reading has sometimes been characterized as "a search for meaning" (Haber
+& Hershenson, 1973, p. 205), the advantage
+of category search over letter search might
+not be due to a priority to conscious processes of meaning over perceptual information. In the letter-search condition there was
+only a single item containing the evidence
+necessary for a positive decision. In the category-search task, however, often several
+words in both the intact- and scrambled-sentence conditions contained information relr
+evant to the target category. For example,
+consider the target category FOOD and the
+sentence, "All the honey in the jar has been
+eaten." Although honey is defined as the
+matching word, other words relate to the
+target category in a way that could facilitate
+semantic detection. Of course it is just this
+sort of linguistic (redundancy that enables
+efficient reading for comprehension. The importance of syntax is also underscored in the
+results by the advantage that normal, intact
+sentences show over scrambled sentences in
+both letter and category search.
+Experiment 4
+The first three studies demonstrated that
+the perceptual characteristics of letters and
+words displayed on the CRT screen were
+conducive to highly accurate and rapid recognition responses. This was true both for
+single displays and for sequences of up to
+nine words presented at rates equivalent to
+a maximum of 1,200 WPM. Further, both
+within-string orthographic redundancy and
+between-string linguistic redundancy facilitated visual search performance in the RSVP
+task. Efficient reading for comprehension
+presumably depends on similar use of orthographic and linguistic redundancy in obtaining meaning from print (e.g., Gibson &
+Levin, 1975; Smith, 1978). Thus, we expect
+subjects to make use of redundant sources
+of information in reading RSVP text much
+as they do in normal reading. The final experiment reported here tested the readability
+
+221
+
+of text presented in the RSVP format. All
+subjects read a series of short paragraphs,
+some displayed in their entirety on the CRT
+screen (page condition) and some presented
+via the RSVP mode (window condition).
+Each paragraph was followed immediately
+by a set of comprehension questions. We
+used a variety of RSVP conditions in order
+to test several different combinations of window size and window duration. These conditions spanned a wide range of reading
+rates; reading comprehension scores were
+compared over these rates for window and
+page conditions in which total reading time
+had been equated.
+Method
+Subjects. Forty-eight native English-speaking undergraduates participated for research credit in an introductory psychology class at the University of Kansas.
+The practiced subjects from the previous experiments
+were not used, primarily because of their familiarity
+with the paragraphs and comprehension questions selected and used in the study.
+Stimuli, Twelve short paragraphs (mean length =
+199 words) from the Nelson-Denny Reading Test
+Forms C and D (Nelson & Denny, 1976) and 12 additional paragraphs (mean length =168 words) selected
+from the McCall-Crabbs Standard Test Lessons in
+Reading (McCall & Crabbs, 1961) were used as experimental stimuli. Each of the Nelson-Denny paragraphs had four 5-alternative multiple-choice questions,
+and each of the McCall-Crabbs paragraphs had more
+than four 4-alternative, multiple-choice questions provided in the test manuals. For consistency in the present
+study, each paragraph was followed by four 4-alternative multiple-choice questions selected from the materials provided. In three of these questions the answers
+were altered slightly so that the correct response alternative could not be easily identified without first reading
+the paragraph. A subsequent analysis of the 96 comprehension questions showed that 56 of them tested
+memory for specific details in the paragraphs, and the
+rest tested memory for more general information and
+logical inferences.
+The choice of stimulus materials was motivated by
+a desire to span a range of reading difficulty. Thus, the
+McCall-Crabbs paragraphs were chosen to represent
+a relatively easy level and the Nelson-Denny paragraphs
+represented a more difficult level of text. An application
+of the Dale-Chall Readability Formula (Dale & Chall,
+1948) to each paragraph resulted in an assignment of
+the 7th-8th grade level to eight of the McCall-Crabbs
+paragraphs, with three slightly below and one slightly
+above this level. Similarly, six of the Nelson-Denny
+paragraphs were rated at the 9th-10th grade level, with
+two slightly below and four slightly above this level. The
+McCall-Crabbs paragraphs will therefore be referred
+to as the intermediate set and the Nelson-Denny para-
+
+222
+
+J. F. JUOLA, N. J. WARD, AND T. McNAMARA
+
+graphs as the secondary set for the remainder of this
+article.
+Apparatus and display. The computer-driven CRT
+terminal was the same as that used in Experiments 13. Two different modes of text presentation were used
+for the paragraphs. In the page condition, each paragraph was presented in its entirety and appeared on the
+CRT screen in a normal format of no more than 65
+characters per line and about 14-20 lines.1 The page
+condition was used as a control to approximate conventional paragraph reading conditions, as opposed- to
+RSVP reading in the window condition. In the window
+condition, text was serially presented as successive
+chunks, with each chunk containing one or more words.
+Since the average word length in the materials used was
+about S letters, the smallest window that could be used
+while consistently presenting at least one word at a time
+was S character spaces. In addition, two other window
+conditions were used in which an average of either 10
+or 1S characters and spaces were presented at once. The
+final manipulation in the window condition was duration; successive windows were presented for either 200
+msec or 300 msec each. The conditions were chosen
+specifically to include the range of visual information
+sampled during a typical eye fixation in reading.
+The CRT-controller program presented successive
+chunks of text with window sizes averaging 5, 10, or 15
+characters and spaces (i.e., about one, two, or three
+words at a time, on the average). It is important to
+emphasize that these are average window sizes, since
+it was decided not to truncate any words within a window. Thus the program in the 10-character window size
+condition, for example, scanned the upcoming text for
+10-space segments and entered this segment into the
+display buffer only if the llth character was a space,
+If the 10th character occurred in the middle of a word,
+the program scanned forward and backward through
+the text to find the nearest space, and then presented
+the segment of text up to that space on the CRT. Another modification of the program emphasized sentence
+boundaries within paragraphs by presenting a blank
+window between sentences. These modifications of the
+program resulted in different (generally slower) presentation rates than what might be expected if WPM rates
+were actually calculated (e.g., 15 characters and spaces
+every 200 msec = about 900 WPM). The actual presentation rates obtained are reported in the Results section. The paragraphs in the page condition were shown
+for three different total exposure times to span the same
+range of reading rates experienced in the window condition.
+Procedure. The window condition included 12 different trial types (intermediate vs. secondary paragraphs; 5, 10, or 15 spaces per window; and window
+durations of either 200 msec or 300 msec each). There
+were six trial types in the page condition, corresponding
+to intermediate versus secondary paragraphs and three
+total presentation times roughly equivalent to the times
+necessary for slow normal reading, fast normal reading,
+and very fast reading. All 24 paragraphs were used twice
+in each window condition and four times in each page
+condition across the 48 subjects. For half of the subjects
+the page condition was presented first, and the window
+condition was presented first for the other half.
+
+Each session began with three practice paragraphs
+presented in the mode appropriate to the initial presentation condition for that subject. The conditions were
+explained,'and the practice paragraphs were shown in
+either the page or window condition. In the page condition, the instructions "Read Normally," "Read Rapidly," or "Read Very Rapidly" were shown in the upper
+left corner of the screen for .5 sec followed by a full
+page of overlapped Xs and Os for .5 sec. This mask was
+then followed by the onset of the entire paragraph for
+a varying amount of time corresponding to the readingrate cues. The paragraph was followed immediately by
+the full-page mask for .5 sec, after which the first of the
+four comprehension questions appeared. The subjects
+were instructed to type one of the letters a, b, c, or d
+on the terminal keyboard to select one of the answers
+given for each comprehension question.
+The block of window trials was also preceded by three
+practice paragraphs selected to represent the range of
+presentation conditions used. Unlike in the page condition, however, no preceding cues were used to indicate
+the window sizes or durations. Each trial began with a
+.5 sec presentation of a 25-character mask of overlapped
+Xs and Os presented in the center of the screen. This
+mask was then replaced with the first window, in which
+the initial letter was indented one space from the lefthand side of the mask. The last window was followed
+immediately by the mask for .5 sec and then the first
+comprehension question. The subjects were allowed unlimited time for answering each question and were given
+feedback after incorrect responses only by the presentation of the word ERROR. For each subject all 24 paragraphs and comprehension questions in both conditions
+were completed in a single 1-hr, session.
+
+Results
+Tables 8 and 9 present the mean reading
+rates and comprehension performance for
+the page and window conditions, respectively. The reading rates in the page condition were calculated from the number of
+words in each paragraph and the total time
+that the paragraph was displayed in each of
+the three duration conditions. The three durations were determined separately for each
+paragraph to keep the total amount of reading time per word within the same range for
+the page and window conditions.
+1
+None of the displays presented on the Teleray terminal appeared instantaneously; rather they were serially written and displayed at a rate of about .83 msec
+per character. This serial writing process was not noticeable for the smaller displays, but it was for the paragraphs. The longest paragraphs used required almost
+a full second to display from the first character in the
+first sentence until the final character in the last word.
+However, this rate was so much faster than the maximum reading rate required that it was not thought to
+limit readability in any way.
+
+VISUAL SEARCH AND READING
+
+Table 8
+Mean Reading Rates and Proportions of
+Correct Choices on Comprehension Questions
+for the Page Condition in Experiment 4
+Reading rate instruction
+Paragraph
+difficulty
+
+Normal
+
+Secondary
+Reading rate
+% correct
+
+214
+
+328
+
+705
+
+.581
+
+.526
+
+.435
+
+Intermediate
+Reading rate
+% correct
+
+216
+
+330
+
+705
+
+,797
+
+.721
+
+'.471
+
+Rapid
+
+Very rapid
+
+Note. Reading rates are given in words per minute.
+
+223
+
+That is, performance in the normal-rate page
+condition was compared with that in the 300
+msec 5-character (300/5) window condition,
+the rapid page condition was compared with
+the mean of the 300/10 and 200/5 window
+conditions, and the very rapid page condition
+was compared with the 200/15 window condition. The slight advantages for the window
+conditions in the first and third comparisons
+for intermediate paragraphs were not significant (both ts < 1.0), but the 5% comprehension advantage for the rapid page condition was significantly greater than that for
+the mean of the two corresponding window
+conditions, *(47) = -2.14, p < .05. Similar
+t tests for the secondary paragraphs found
+no significant differences in comprehension
+between page and window conditions.
+A final analysis of the comprehension data
+was made for questions about specific details
+versus those asking for more general information. A three-way ANOVA using the factors of paragraph difficulty, presentation format, and question type found only the
+difficulty factor to be significant, F(l, 84) =
+22.9, p < .001. The mean score of 59% correct for the specific questions did not significantly exceed the 55% correct score for the
+
+The comprehension performance data were
+analyzed by linear regression methods to test
+for the effects of presentation rate, paragraph difficulty, and for any differences between performance in the page and window
+conditions. The regression analyses treated
+percentage of correct responses on the comprehension questions for each paragraph in
+all conditions as functions of the reading
+rate. Separate functions were found for the
+intermediate and secondary paragraphs in
+both the window and page conditions. The
+differences between the regression slopes and
+intercepts found in the two presentation con- Table 9
+ditions were evaluated using a jack-knife Mean Reading Rates and Proportions of
+procedure (Hosteller & Tukey, 1977). For Correct Choices on Comprehension Questions
+the secondary paragraphs, the slope differ- for the Window Condition in Experiment 4
+ences between window and page conditions
+Window size (spaces)
+were found not to differ significantly from
+Window
+zero (mean slope difference for windowduration
+5
+10
+15
+page conditions = .002 ± .024, the 95% conSecondary paragraphs
+fidence interval). Similarly, the mean difference between the window and page inter- 200
+321
+524
+705
+Reading rate
+cepts also did not differ significantly from
+.552
+.474
+.422
+% correct
+zero (mean intercept difference = —.4 ±
+11.8). For the intermediate paragraphs, no 300
+Reading rate
+214
+350
+470
+window-page differences were found for the
+%' correct
+.531
+.547
+.484
+slopes (mean slope difference = -.001 ±
+Intermediate paragraphs
+.022), and the intercept was not significantly
+greater in the page condition than in the 200
+705
+Reading rate
+323
+511
+window condition (mean intercept differ% correct
+.698
+.510
+.505
+ence = -5.5 ±8,0).
+To further test for any possible perfor- 300
+Reading rate
+215
+341
+470
+mance differences in the page and window
+% correct
+.807
+.647
+.484
+conditions, t tests were performed on the
+comprehension data for those reading rates Note. Reading rates are given in words per minute;
+that were equivalent in the two conditions. window durations are given in milliseconds.
+
+224
+
+J. F. JUOLA, N. J. WARD, AND T. McNAMARA
+
+PAGE
+
+CONDITION
+
+i
+
+»
+
+WINDOW CONDITION
+200
+
+MSEC
+
+0—0
+
+300
+
+MSEC
+
+»--«
+
+.70
+
+£
+
+i
+
+.60
+
+u
+
+Z
+
+.50
+
+200
+
+300
+
+400
+
+SOO
+
+600
+
+700
+
+READING DATE (WORDS PER MINUTE)
+
+Figure 5. Mean proportion correct on the comprehension questions for paragraphs presented for various
+lengths of time (converted to words per minute) in Experiment 4. (The connected data points are, from left
+to right, for the normal, rapid, and very rapid readingrate instructions in the page condition and for windows
+of 5, 10, and 15 character spaces in the window condition.)
+
+more general questions, F( 1, 84) = 1.36, p>
+.05, nor did performance differ for window
+and page conditions, F(l, 84) = 1.14. None
+of the interactions was significant. The general lack of significant differences in comprehension performance between the page
+and window conditions, as well as the effects
+of presentation rate, are further illustrated
+in Figure 5. In this figure, the data for the
+intermediate and secondary paragraphs presented in Tables 8 and 9 have been combined. The data show comprehension performance in the window condition to be at
+or only slightly below that obtained in the
+page condition across the range of reading
+rates used (200-700 WPM). Further, the
+differences in comprehension appear to be
+less for the more rapid sequence of windows
+(200 msec each) than in the slower, 300msec window condition when overall rates
+of presentation are equated.
+Discussion
+The results demonstrated that reading
+short paragraphs for comprehension can be
+efficiently done via the RSVP mode on a
+CRT screen. With only one exception there
+were no significant differences in compre-
+
+hension scores between the successive window conditions and the complete page condition over the range of materials and
+presentation rates used in Experiment 4.
+Thus, even though the subjects had had
+many years experience reading paragraphs
+presented as wholistic entities to be scanned
+with normal eye movements, their comprehension as measured by the test questions
+was no better than that obtained in the
+uniquely different RSVP mode of presentation. This was true for materials from the
+sixth-grade level to college levels and for
+slower than normal reading rates to rates of
+about twice the normal college-student reading rate.
+These results support the conjectures of
+Bouma and de Voogd (1974) and Potter et
+al. (1980) that text can be presented one or
+more words at a time to a single visual locus
+without necessarily disrupting normal reading comprehension processes. (In fact, Potter
+et al. report some evidence for superior reading performance in the RSVP condition over
+that obtained for normal reading. This result
+was obtained mainly in conditions in which
+subjects were unable to read the entire paragraph as a whole in the allotted time.) Thus,
+there is apparently only a minor contribution
+to comprehension from the highly variable
+and somewhat erratic pattern of eye movements and fixation durations in normal reading. These data support the notion that most
+of reading comprehension depends instead
+on conceptually driven processes that operate normally over a wide ra^ge of variable
+input formats. The data also suggest that
+there is a limit to what can be inferred about
+reading comprehension processes from an
+analysis of eye-movement patterns alone
+(but see Just & Carpenter, 1980). Finally,
+the results of Experiment 4 encourage the
+extension of the RSVP technique not only
+to the study of normal reading for comprehension behavior but also to examination of
+reading speeds and comprehension abilities
+beyond any limits imposed by the mechanical movements of the eye.
+General Discussion
+Presenting text under computer control
+allows for testing reading -comprehension
+
+VISUAL SEARCH AND READING
+
+over a wide range of possible input formats.
+The research reported here represents an initial stage in the study of text presentation
+methods that allow some degree of comprehension at rates equivalent to or faster than
+normal reading using standard page formats.
+Because of the relatively novel methods of
+text presentation employed, we felt it was
+necessary to test legibility and other perceptual factors involved in viewing single letter
+strings and RSVPs of string sequences before extending the method to studies of actual reading. Thus the issues successively
+investigated and discussed here include (a)
+the perceptibility of letters presented as
+light-against-dark dot patterns on a CRT
+screen, (b) the relative perceptibilities of
+words and unfamiliar strings made up of
+such characters, (c) the perceptual effects
+of orthographic and linguistic structure on
+the perception of RSVP letter strings, and
+(d) the relative readability of text presented
+in normal paragraph format as opposed to
+a variety of RSVP formats for the same total
+viewing time.
+The results indicated that both perceptual
+processes and reading for comprehension are
+only minimally disrupted by presenting letter strings and text on the CRT screen and
+by eliminating the need for eye movements
+through successive presentation of displays
+to a single visual location. These results are
+important in that they demonstrate the viability of reading text presented in formats
+that are unusual yet ideally suited to the
+visual display capabilities of computer terminals. Further, the results suggest the possibility that, with practiced readers, text presentation methods can be found that will
+lead to improved reading speed and comprehension abilities over those obtainable
+when text is viewed in a normal page format.
+Also, RSVP techniques might be useful for
+manipulating text processing on-line, leading to new methods of studying reading be*
+havior.
+The first two experiments demonstrated
+that letters in words and other character
+strings can be detected reliably and accurately using the dot-matrix letters of a typical CRT computer terminal. The results
+were in all ways comparable to those obtained using similar materials presented as
+
+225
+
+high-quality, typed displays of black letters
+on a white background (e.g., Juola et al.,
+1978). Experiment 2 further demonstrated
+that RSVP sequences of five letter strings
+also resulted in reliable letter-detection performance even when the rate of presentation
+was increased to the equivalent of 600
+WPM. Both studies also found small but
+reliable advantages in letter-recognition performance for word displays over orthographically regular pseudowords and for pseudowords over irregular nonwords. These results
+indicate that orthographic regularity plays
+a role in the visual perception of letter
+strings, perhaps by facilitating inferential
+processes or eliminating some alternatives
+for letters before they are identified. The
+word-superiority effect itself undoubtedly
+owes a large part of its existence to the use
+of orthographic redundancy in the recognition process. However, the consistent advantage for common words over regular pseudowords observed in Experiments 1 and 2
+and in many other studies points to some
+special property of words that is not captured
+in,manipulations of orthographic regularity
+in nonword letter strings. Admittedly, word
+recognition might be based on single-letter
+recognition processes plus the use of redundant orthographic information, and the word
+advantage often reported might then be due
+to the fact that the orthographic regularity
+of words is not adequately represented in the
+pseudowords despite the best intentions of
+careful researchers. On the other hand, that
+words are composed of letters does not mean
+letter identification must precede word recognition any more than separate perception
+of leaves, branches, trunk, and bark must
+precede recognition of a tree. The main point
+is that the similarity of results from tachistoscopic studies and those obtained here using a CRT and RSVPs indicates that the
+perceptual processes involved in word recognition are not unduly affected by the use
+of these rather unusual computer displays.
+Beyond word-recognition issues in the
+study of reading lie considerations of how
+readers use semantic and syntactic information and other relevant knowledge to construct meaningful interpretations of text
+built up across several successive eye fixations. Experiment 3 demonstrated that even
+
+226
+
+J. F. JUOLA, N. J. WARD, AND T. McNAMARA
+
+in searches for a single letter or an example
+of a given semantic category, the structure
+of sentences is important, because performance was better for intact than scrambled
+sentences. Linguistic redundancy was useful
+even at RSVP rates equivalent to 1,200
+WPM. It was also of interest to find that in
+all combinations of degree of structure and
+rate of presentation, search for meaning was
+superior to performance in the letter-search
+task.
+The final study reported here demonstrated that short paragraphs can be read
+about as well for immediate comprehension
+tests in the RSVP mode as in a standard
+page format. This was true for a variety of
+RSVP conditions, including successive windows of 200 msec or 300 msec each, with
+window sizes spanning 5 to 15 characters
+and spaces. The materials ranged widely in
+difficulty, and the overall presentation times
+corresponded to reading rates ranging from
+about 200 to 700 WPM, yet the results were
+consistent: Comprehension performance as
+measured by the test questions was not reliably better with the standard page format
+than in the novel RSVP mode. The data also
+suggested that some RSVP conditions might
+be better than others at a given processing
+rate. That is, small windows presented at 200
+msec each might be more easily read than
+larger windows at 300-msec durations, although definitive resolution of the question
+of how best to choose window parameters
+awaits additional research. It will also be
+desirable in future research to include rigorous tests of comprehension to insure that
+null results are not merely due to insensitivity of the comprehension measure. Our measure showed strong effects of paragraph difficulty and presentation rate, but possible
+reading differences among various RSVP
+conditions and between window and page
+conditions deserve closer consideration in
+future research.
+The results of Experiment 4 are encouraging in that they suggest that the active
+eye-movement patterns of a skilled reader
+are not necessarily the optimal way to sample information from text. The present RSVP
+methods of text presentation made no
+concession to linguistic structure other than
+displaying entire words without truncations
+
+and inserting a blank window between sentences. It is possible that more sophisticated
+parsing programs that include text structure
+variables in the selection of window contents
+could result in improvement in the readability of RSVP text. Further, the present
+subjects had less than 30 minutes of experience in the RSVP reading task, as opposed
+to thousands of hours of experience with
+normal text formats. It is: uncertain what
+levels of immediate comprehension and longterm retention might be obtainable using
+more sophisticated text presentation programs and experienced readers who, perhaps, could interact with the computer to
+select and modify text presentation parameters. New manipulations of text presentation modes using computer-controlled displays might well result in higher levels of
+information transmission between the data
+source and reader than are presently possible
+with static pages and dynamic eye movements determining the information flow.
+Reference Note
+1. Juola, J. F., McDermott, D. A., & Miller, T. J. Visual search and reading. Paper presented at the annual convention of the Psychonomic Society, Washington, D.C., 1977.
+
+References
+Aaronson, D,, & Scarborough, H. S. Performance theories of sentence coding: Some quantitative models.
+Journal of Verbal Learning arid Verbal Behavior,
+1977, 16, 277-303.
+Ball, F., Wood, C., & Smith, E. E.; When are semantic
+targets detected faster than visual or acoustic ones?
+Perception & Psychophysics, 1975, 17, 1-8.
+Baron, J., & Thurston, I. An analysis of the word superiority effect. Cognitive Psychology, 1973, 4. 207228.
+Bouma, H., & de Voogd, A. H. On the control of eye
+saccades in reading. Vision Research, 1974,14, 273284.
+Bruder, G. A. The role of visual familiarity in the wordsuperiority effects obtained with the simultaneousmatching task. Journal of Experimental Psychology:
+Human Perception and Performance, 1978, 4, 88100.
+Dale, E., & Chall, J. S. A formula for predicting readability. Educational Research Bulletin (Ohio State
+University), 1948, 27, 11-20; 37-54.
+Forster, K. I. Visual perception of rapidly presented
+word sequences of varying complexity. Perception
+& Psychophysics, 1970, 8, 215-221.
+Friedrich, F. J., Schadler, M., & Juola, J. F. Developmental changes in units of processing in reading.
+
+VISUAL SEARCH AND READING
+Journal of Experimental Child Psychology, 1979,28,
+344-358.
+Gibson, E, J., & Levin, H. The psychology of reading.
+Cambridge, Mass.: MIT Press, 1975.
+Gilford, R. M., & Juola, J. F. Familiarity effects on
+memory search and visual search. Bulletin of the
+Psychonomic Society. 1976, 7, 142-144.
+Haber, R. Control of eye movements during reading.
+In R. A. Monty & J. W. Senders (Eds.), Eye movements and psychological processes. Hillsdale, N.J.:
+Erlbaum, 1976.
+Haber, R. N., & Hershenson, M. The psychology of
+visual perception. New York: Holt, Rinehart, and
+Winston, 1973.
+Henderson, L. Is there a lexicality component in the
+word superiority effect? Perception & Psychophyslcs,
+1980, 28, 179-184.
+Huey, E. D. The psychology and pedagogy of reading.
+Cambridge, Mass.: M.I.T. Press, 1968. (Originally
+published, 1908.)
+Juola, J. F., Leavitt, D. D., & Choe, C. S. Letter identification in word, nonword, and single-letter displays.
+Bulletin of the Psychonomic Society, 1974, 4, 278280.
+Juola, J. F., Schadler, M., Chabot, R. J., & McCaughey, M. W. The development of visual information processing skills related to reading. Journal
+of Experimental Child Psychology, 1978, 25, 459476.
+Just, M. A., & Carpenter, P. A. A theory of reading:
+From eye fixations to comprehension. Psychological
+Review, 1980, 87, 329-354.
+Krueger, L. E, Visual comparison in a redundant display. Cognitive Psychology, 1970, /, 341-357.
+Krueger, L. E., & Shapiro, R. G. Letter detection with
+rapid serial visual presentation: Evidence against
+word superiority at feature extraction. Journal of
+Experimental Psychology: Human Perception and
+Performance, 1979, 5, 657-673.
+Kucera, H., & Francis, W. H. Computational analysis
+of present-day American English. Providence: Brown
+University Press, 1967.
+Levy-Schoen, A., O'Regan, K. The control of eye movements in reading. In P. A. Kolers, M. E. Wrolstad,
+& H. Bouma (Eds.), Processing of visible language.
+New York: Plenum Press, 1979.
+Massaro, D. W. Understanding language: An information processing analysis of speech perception,
+reading, and psycholinguistics. New York: Academic
+Press, 1975,
+Massaro, D. W., Taylor, G. A,, Venezky, R. L., Jastrzembski, J. E., & Lucas, P. A. Letter and word
+perception. Amsterdam: North-Holland, 1980.
+Massaro, D. W., Venezky, R, L., & Taylor, G. A. Orthographic regularity, positional frequency, and visual
+processing of letter strings. Journal of Experimental
+Psychology: General, 1979, 108, 107-124.
+.
+Mayzner, M. S., & Tresselt, M. E. Tables of singleletter and digram frequency counts for various wordlength and letter-position combinations. Psychonomic
+Monograph Supplements, 1965, 1, (2).
+
+227
+
+McCall, W. A., & Crabbs, L. M. Standard test lessons
+in reading. New York: Teachers' College Press, 1961.
+McCaughey, M. W., Juola, J. F., Schadler, M., &
+Ward, N. Whole-word units are used before orthographic knowledge in perceptual development. Journal of Experimental Child Psychology, 1980, 30,
+411-421.
+McNamara, T., Ward, N., & Juola, J. F. Visual search
+for letters in intact and mixed-case words and nonwords, Bulletin of the Psychonomic Society, 1978,
+12, 297-300.
+Miller, G. A., Heise, G. A., & Lichten, W. The intelligibility of speech as a function of the context of the
+test materials. Journal of Experimental Psychology,
+1951, 41, 329-335.
+Mosteller, F., & Tukey, J. W. Data analysis and regression: A second course in statistics. Reading, Mass.:
+Addison-Wesley, 1977.
+Nelson, M. J., & Denny, E. C. The Nelson-Denny reading test. Boston: Houghton-Mifflin, 1976.
+Potter, M. C., Kroll, J. F., & Harris, C. Comprehension
+and memory in rapid sequential reading. In R. Nickerson (Ed.) Attention and performance VIII. Hillsdale, N.J.: Erlbaum, 1980.
+Purcell, D. G., Stanovich, K. E., & Spector, A. Visual
+angle and the word superiority effect. Memory &
+Cognition, 1978, 6, 3-8.
+Rayner, K., & McConkie, G. W, Perceptual processes
+in reading: The perceptual spans. In A. S. Reber &
+D. L. Scarborough (Eds.), Toward a psychology of
+reading. Hillsdale, N.J.; Erlbaum, 1977.
+Reicher, G. M. Perceptual recognition as a function of
+meaningfulness of stimulus material. Journal of Experimental Psychology, 1969, 81, 275-280.
+Shebilske, W. Reading eye movements from an information-processing point of view. In D. W. Massaro
+(Ed.), Understanding language. New York: Academic Press, 1975.
+Smith, F. Understanding reading. New York: Holt,
+Rinehart, and Winston, 1978.
+Sternberg, S. High-speed scanning in human memory.
+Science, 1966, 153, 652-654.
+Sternberg, S. Memory scanning: Mental processes revealed by reaction experiments. American Scientist,
+1969, .57, 421-457.
+Taylor, G. A., Miller, T. J., Juola, J. F. Isolating visual
+units in the perception of words and nonwords. Perception & Psychophysics, 1977, 21, 377-386,
+Tulving, E., & Gold, C. Stimulus information and contextual information as determinants of tachistoscopic
+recognition of words. Journal of Experimental Psychology, 1963,66, 319-327.
+Volkmann, F. C. Saccadic supression: A brief review.
+In R. A. Monty & J. W. Senders (Eds.), Eye movements and psychological processes. Hillsdale, N.J.:
+Erlbaum, 1976.
+
+Received March 16, 1981 •
+
+
